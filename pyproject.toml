@@ -1,0 +1,15 @@
+[project]
+name = "traceable"
+version = "0.1.0"
+description = "에이전트가 '왜 그렇게 했는지' 댈 수 있는 정도를 재는 다섯 축"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
